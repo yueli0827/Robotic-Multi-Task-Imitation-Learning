@@ -4,23 +4,23 @@ Repository Structure
 
 Robotic-Multi-Task-Imitation-Learning
 
-├── Real Robot
-
-│   ├── Expert
-
-│   │   └── Expert Multi-task Demonstrations in Real Robot
-
-│   └── Student
-
-│       └── Student Multi-task Imitation in Real Robot
-
-└── Simulation Environment
-
-    ├── Expert
+    ├── Real Robot
     
-    │   └── Expert Multi-task Demonstrations in Simulation Environment
+    │   ├── Expert
     
-    └── Student
+    │   │   └── Expert Multi-task Demonstrations in Real Robot
     
-        └── Student Multi-task Imitation in Simulation Environment
+    │   └── Student
+    
+    │       └── Student Multi-task Imitation in Real Robot
+    
+    └── Simulation Environment
+    
+        ├── Expert
+        
+        │   └── Expert Multi-task Demonstrations in Simulation Environment
+        
+        └── Student
+        
+            └── Student Multi-task Imitation in Simulation Environment
         
